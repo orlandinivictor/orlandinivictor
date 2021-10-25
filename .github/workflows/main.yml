@@ -1,5 +1,16 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v0.0.18
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    svg_out_path: dist/github-snake.svg
+on:
+  schedule: # execute every 6 hours
+    - cron: "* */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: orlandinivictor
+          svg_out_path: dist/github-contribution-grid-snake.svg
