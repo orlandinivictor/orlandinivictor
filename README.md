@@ -34,7 +34,7 @@
   [![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=000&style=for-the-badge)](https://www.java.com/en/)
   [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring+Boot&logoColor=fff&style=for-the-badge)](https://spring.io/projects/spring-boot)
   
-  
+  ![Snake animation](https://github.com/orlandinivictor/orlandinivictor/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   ##
