@@ -34,9 +34,10 @@
   [![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=000&style=for-the-badge)](https://www.java.com/en/)
   [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring+Boot&logoColor=fff&style=for-the-badge)](https://spring.io/projects/spring-boot)
   
-  ![Snake animation](https://github.com/orlandinivictor/orlandinivictor/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+
+  
   ##
 
 <div> 
@@ -45,6 +46,7 @@
   <a href="https://instagram.com/_orlandinivictor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:victorcintra99@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/orlandinivictor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
 
 <!--
